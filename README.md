@@ -11,7 +11,7 @@ Inspired by the problem described above, our initial idea was to develop an AR S
 The input would be a .jpg image and the output would be a .png image, containing only the primary object in the image on a transparent background. A sample input and output is shown below for reference.
 
 ## Notebooks
-We have tried out six different variants i.e. v1 - v6, each having a different jupyter notebook. The details of each of the versions can be found in the project report [add_link_to_project_report]
+We have tried out six different variants i.e. v1 - v6, each having a different jupyter notebook. The details of each of the versions can be found in the project report
 
 ## Dataset
 The dataset we used was the DUTS dataset. It is currently the largest saliency detection dataset and comprises two subsets: DUTS-TR and DUTS-TE. DUTS-TR contains 10553 images designed for training and DUTS-TE has 5019 images for testing. The Dataset has been uploaded on [google drive](https://drive.google.com/drive/folders/1-uBPm49Eo3uaCU1aA2S0UwaL0_iMXQKS?usp=sharing)
